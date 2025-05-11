@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a hardware and software enthusiast working on IoT project. I have interest for electronics🔌 and also excited to learn about VLSI design and verification. Also I have keen interest towards CyberSecurity💻.
+I'm a hardware and software enthusiast working on IoT project. I have interest in the field of Embedded Systems and Bare-Metal Programming. Also I have keen interest towards CyberSecurity💻.
 <!--
 **roshan-nahsor/roshan-nahsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
