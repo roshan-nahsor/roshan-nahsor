@@ -1,5 +1,10 @@
 ### Hi there 👋
 I'm a hardware and software enthusiast. I have interest in the field of Embedded Systems and Bare-Metal Programming. Also I have keen interest towards CyberSecurity💻.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr_icons=true)
 <!--
 **roshan-nahsor/roshan-nahsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
