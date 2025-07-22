@@ -3,12 +3,13 @@ I'm a hardware and software enthusiast. I have interest in the field of Embedded
 
 
 <a href="https://github.com/roshan-nahsor">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-nahsor&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-nahsor&theme=codeSTACKr&layout=compact" />
 </a>
 <a href="https://github.com/roshan-nahsor">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-nahsor&theme=codeSTACKr&show_icons=true&card_width=320" />
 </a>
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)
